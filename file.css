@@ -37,12 +37,17 @@ header{
     background:  green;
     text-decoration: overline;
     columns: blue;
-
 }
 
+.fa-brands{
+    border-radius: 60px;
+    font-size: xx-large;
+}
 .firstnav-child3 i:hover{
     font-size: 35px;
     background: blueviolet;
+    border-radius: 20px;
+
     
 }
 select{
